@@ -178,6 +178,57 @@ data:
 
 * https://github.com/domlysz/BlenderGIS
 
+KeenTools:
+------------------------------------------------------------------------------------
+
+
+FaceBuilder for Blender:
+________________________
+
+Info:
+_____
+
+* https://keentools.io/products/facebuilder-for-blender
+
+Download:
+_________
+
+* https://keentools.io/download/facebuilder-for-blender
+
+Guide:
+______
+
+* https://link.keentools.io/fbb-guide
+
+
+GeoTracker for Blender:
+_______________________
+
+Info:
+_____
+
+* https://keentools.io/products/geotracker-for-blender
+
+Download:
+_________
+
+* https://downloads.keentools.io/latest-keentools-for-blender-dmg
+
+Guide:
+______
+
+* http://link.keentools.io/gtb-guide
+
+
+KeenTools Core Library:
+_______________________
+
+Download:
+_________
+
+* https://keentools.io/download/core
+
+
 
 FBX Import Issues with Blender?
 _______________________________
@@ -414,6 +465,16 @@ viewing.
 
 
 * https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/
+
+
+Just a handy Addon for printing or saving articles / tutorials to PDF:
+______________________________________________________________________
+
+
+Print Friendly & PDF:
+_____________________
+
+* https://addons.mozilla.org/en-US/firefox/addon/print-friendly-pdf/
 
 
 Suggested FTP Management:
